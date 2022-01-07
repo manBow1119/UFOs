@@ -19,6 +19,7 @@ function buildTable(data){
             cell.txt(val);
         });
     });
+}
     //utilizes D3 to listen for user input
     function handleClick() {
         //get date information
@@ -40,4 +41,3 @@ function buildTable(data){
 
     //build table from original data when page loads
     buildTable(tableData);
-}
