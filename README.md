@@ -1,7 +1,13 @@
 # UFOs
 
 ### Project Overview
-For this project a web-based visual was created to represent provided UFO data. The visualization provides an aesthetically pleasing interface displaying a table of UFO sighting information such as location, date, shape, duration, and related comments. The website allows users to filter through the data and display a new chart with location, data, and shape filters. Once these filters are applied the table updates to reflect the narrowed information.
+For this project a web-based visual was created to represent data about UFO sightings. The visualization provides an aesthetically pleasing interface displaying a table of UFO sighting information such as location, date, shape, duration, and related comments. The website allows users to filter through the data and display a new chart with location, date, and shape filters. Once these filters are applied the table updates to reflect the narrowed information.
+
+### Technologies
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
 
 ### Results
 The table on the website provides an organized way for the user to view pertinent information about each sighting from the database. By using one (or more) of the five filters, users can narrow their search. To use the filters, a user must simply type a value into one of the fields (following the template for date) and press enter or leave the field.
